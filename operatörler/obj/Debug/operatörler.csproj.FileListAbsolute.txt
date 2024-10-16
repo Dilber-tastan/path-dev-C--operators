@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\bin\Debug\operatörler.exe.config
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\bin\Debug\operatörler.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\bin\Debug\operatörler.pdb
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\obj\Debug\operatörler.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\obj\Debug\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\obj\Debug\operatörler.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\operatörler\obj\Debug\operatörler.pdb
